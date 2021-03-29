@@ -1,0 +1,25 @@
+{
+  "name": "test-module-arrlib",
+  "version": "1.0.0-beta",
+  "description": "array library package",
+  "main": "array_library.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irina-si/test-module-arrlib.git"
+  },
+  "keywords": [
+    "array",
+    "methods",
+    "es6",
+    "chaining"
+  ],
+  "author": "Sidorenko Irina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irina-si/test-module-arrlib/issues"
+  },
+  "homepage": "https://github.com/irina-si/test-module-arrlib#readme"
+}
